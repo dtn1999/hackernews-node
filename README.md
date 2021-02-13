@@ -4,7 +4,16 @@ simple graphquery API with authentication which allow client to authenticate the
 
 ## Usage
 
-1- git clone the repo
-2- cd ...
-3- npm start
-4- localhost:8000/graphql-playground
+## Getting started
+
+```
+# hier are the steps to run the code on your desktop
+
+$ git clone https://github.com/dtn1999/node-express-mongodb.git
+
+$ cd node-exporess.mongodb
+
+$ npm install
+
+$ npm run:dev
+```
