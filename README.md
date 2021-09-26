@@ -6,7 +6,7 @@ simple graphquery API with authentication which allow client to authenticate the
 
 ## Getting started
 
-```
+```bash
 # hier are the steps to run the code on your desktop
 
 $ git clone https://github.com/dtn1999/hackernews-node.git
